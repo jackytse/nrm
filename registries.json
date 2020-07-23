@@ -3,6 +3,14 @@
         "home": "https://www.npmjs.org",
         "registry": "https://registry.npmjs.org/"
     },
+    "yarn": {
+        "home": "https://yarnpkg.com",
+        "registry": "https://registry.yarnpkg.com/"
+    },
+    "tencent": {
+        "home": "https://mirrors.cloud.tencent.com/npm/",
+        "registry": "https://mirrors.cloud.tencent.com/npm/"
+    },
     "cnpm": {
         "home": "http://cnpmjs.org",
         "registry": "http://r.cnpmjs.org/"
@@ -14,10 +22,6 @@
     "nj": {
         "home": "https://www.nodejitsu.com",
         "registry": "https://registry.nodejitsu.com/"
-    },
-    "rednpm": {
-        "home": "http://npm.mirror.cqupt.edu.cn/",
-        "registry": "http://registry.mirror.cqupt.edu.cn/"
     },
     "npmMirror": {
         "home": "https://skimdb.npmjs.com/",
